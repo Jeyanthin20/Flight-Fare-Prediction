@@ -1,1 +1,3 @@
 # Flight-Fare-Prediction
+
+our goal is to Predict Flight fare price. The Dataset contains different airlines, departure,arrival duration, etc... 
